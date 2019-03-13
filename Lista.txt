@@ -3,7 +3,7 @@ Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
 Barceló Masaguez, Federico Javier (180736) ->
-Bernardico Barretto, Mariano (222145) ->
+Bernardico Barretto, Mariano (222145) -> mbernardico
 Buono Puente, Gonzalo Andres (201476) ->
 Cappi Rampoldi, Leonardo (176027) ->
 Castro Albin, Juan Manuel (164660) ->
