@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -13,7 +13,7 @@ Dodel Kohn, Daniela Sara (166689) ->
 Dos Santos Reimer, Daniela Leticia (186738) ->
 Doune Fernández, Álvaro Martín (170722) ->
 Ferreira Brancaccio, Viviana Soledad (146536) ->
-Ferulano Canedo, Santiago Mateo (158632) ->
+Ferulano Canedo, Santiago Mateo (158632) -> sferulano
 Foderé Barrenechea, Andrés María (138937) ->
 Fremd Kanovich, Gabriel (205131) ->
 Garcia Berrutti, Federico Martin (181179) ->
