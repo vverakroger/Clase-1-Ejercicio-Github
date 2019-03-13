@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -20,7 +20,7 @@ Garcia Berrutti, Federico Martin (181179) ->
 García Techera, Natalia (181111) ->
 Guffanti Bozzo, Nicolás Bernabé (182866) ->
 López Bica, Maximiliano Sebastián (214062) ->
-Mascarello Piriz, Maximiliano Nicolas (192717) ->
+Mascarello Piriz, Maximiliano Nicolas (192717) -> mmascarello
 Morasca Laprovitera, Camilo (164329) ->
 Ortega Alonso, Matías (152564) ->
 Ottavis Etcheverry, Joaquin Guillermo (197841) ->
