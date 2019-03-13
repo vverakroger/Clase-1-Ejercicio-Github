@@ -6,12 +6,12 @@ Barceló Masaguez, Federico Javier (180736) ->
 Bernardico Barretto, Mariano (222145) ->
 Buono Puente, Gonzalo Andres (201476) ->
 Cappi Rampoldi, Leonardo (176027) ->
-Castro Albin, Juan Manuel (164660) ->
+Castro Albin, Juan Manuel (164660) -> jotacastroalbin
 Cheveste Gareta, Manuel Leandro (205361) -> 
 De Luca Debera, Federico Nicolás (146421) ->
 Dodel Kohn, Daniela Sara (166689) -> 
 Dos Santos Reimer, Daniela Leticia (186738) ->
-Doune Fernández, Álvaro Martín (170722) ->
+Doune Fernández, Álvaro Martín (170722) -> alvarodoune
 Ferreira Brancaccio, Viviana Soledad (146536) ->
 Ferulano Canedo, Santiago Mateo (158632) ->
 Foderé Barrenechea, Andrés María (138937) ->
