@@ -24,7 +24,7 @@ Mascarello Piriz, Maximiliano Nicolas (192717) ->
 Morasca Laprovitera, Camilo (164329) ->
 Ortega Alonso, Matías (152564) ->
 Ottavis Etcheverry, Joaquin Guillermo (197841) ->
-Palay Carbone, Sergio (66372) ->
+Palay Carbone, Sergio (66372) -> palayort
 Pereira Aguerre, Jorge Eduardo (139300) ->
 Porteous Lucero, Alfonso Nicolás (184112) ->
 Pucciano Castro, Luis Ignacio (185934) ->
