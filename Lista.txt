@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -18,7 +18,7 @@ Foderé Barrenechea, Andrés María (138937) ->
 Fremd Kanovich, Gabriel (205131) ->
 Garcia Berrutti, Federico Martin (181179) ->
 García Techera, Natalia (181111) ->
-Guffanti Bozzo, Nicolás Bernabé (182866) ->
+Guffanti Bozzo, Nicolás Bernabé (182866) -> Usuario Github: nguffanti
 López Bica, Maximiliano Sebastián (214062) ->
 Mascarello Piriz, Maximiliano Nicolas (192717) ->
 Morasca Laprovitera, Camilo (164329) ->
