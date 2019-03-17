@@ -4,7 +4,7 @@ Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 
 Barceló Masaguez, Federico Javier (180736) -> ElLargo
 Bernardico Barretto, Mariano (222145) -> mbernardico
-Buono Puente, Gonzalo Andres (201476) ->
+Buono Puente, Gonzalo Andres (201476) -> gonbuono
 Cappi Rampoldi, Leonardo (176027) ->
 Castro Albin, Juan Manuel (164660) -> jotacastroalbin
 Cheveste Gareta, Manuel Leandro (205361) -> manuelcheveste 
@@ -21,7 +21,7 @@ García Techera, Natalia (181111) -> natgarcia
 Guffanti Bozzo, Nicolás Bernabé (182866) -> Usuario Github: nguffanti
 López Bica, Maximiliano Sebastián (214062) -> maxilopezbica
 Mascarello Piriz, Maximiliano Nicolas (192717) -> mmascarello
-Morasca Laprovitera, Camilo (164329) ->
+Morasca Laprovitera, Camilo (164329) -> cmorasca
 Ortega Alonso, Matías (152564) ->
 Ottavis Etcheverry, Joaquin Guillermo (197841) ->
 Palay Carbone, Sergio (66372) -> palayort
