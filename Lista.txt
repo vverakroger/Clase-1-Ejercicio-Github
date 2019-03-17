@@ -16,8 +16,8 @@ Ferreira Brancaccio, Viviana Soledad (146536) ->
 Ferulano Canedo, Santiago Mateo (158632) -> sferulano
 Foderé Barrenechea, Andrés María (138937) ->
 Fremd Kanovich, Gabriel (205131) -> GFPdu
-Garcia Berrutti, Federico Martin (181179) ->
-García Techera, Natalia (181111) ->
+Garcia Berrutti, Federico Martin (181179) -> federecuo
+García Techera, Natalia (181111) -> natgarcia
 Guffanti Bozzo, Nicolás Bernabé (182866) -> Usuario Github: nguffanti
 López Bica, Maximiliano Sebastián (214062) -> maxilopezbica
 Mascarello Piriz, Maximiliano Nicolas (192717) -> mmascarello
