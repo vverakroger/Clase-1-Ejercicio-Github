@@ -2,34 +2,35 @@
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
-Barceló Masaguez, Federico Javier (180736) ->
-Bernardico Barretto, Mariano (222145) ->
+Barceló Masaguez, Federico Javier (180736) -> ElLargo
+Bernardico Barretto, Mariano (222145) -> mbernardico
 Buono Puente, Gonzalo Andres (201476) ->
 Cappi Rampoldi, Leonardo (176027) ->
-Castro Albin, Juan Manuel (164660) ->
+Castro Albin, Juan Manuel (164660) -> jotacastroalbin
 Cheveste Gareta, Manuel Leandro (205361) -> 
 De Luca Debera, Federico Nicolás (146421) ->
 Dodel Kohn, Daniela Sara (166689) -> 
 Dos Santos Reimer, Daniela Leticia (186738) ->
-Doune Fernández, Álvaro Martín (170722) ->
+Doune Fernández, Álvaro Martín (170722) -> alvarodoune
 Ferreira Brancaccio, Viviana Soledad (146536) ->
-Ferulano Canedo, Santiago Mateo (158632) ->
+Ferulano Canedo, Santiago Mateo (158632) -> sferulano
 Foderé Barrenechea, Andrés María (138937) ->
-Fremd Kanovich, Gabriel (205131) ->
+Fremd Kanovich, Gabriel (205131) -> GFPdu
 Garcia Berrutti, Federico Martin (181179) -> federecuo
 García Techera, Natalia (181111) -> natgarcia
-Guffanti Bozzo, Nicolás Bernabé (182866) ->
+Guffanti Bozzo, Nicolás Bernabé (182866) -> Usuario Github: nguffanti
 López Bica, Maximiliano Sebastián (214062) -> maxilopezbica
-Mascarello Piriz, Maximiliano Nicolas (192717) ->
+Mascarello Piriz, Maximiliano Nicolas (192717) -> mmascarello
 Morasca Laprovitera, Camilo (164329) ->
 Ortega Alonso, Matías (152564) ->
 Ottavis Etcheverry, Joaquin Guillermo (197841) ->
-Palay Carbone, Sergio (66372) ->
+Palay Carbone, Sergio (66372) -> palayort
 Pereira Aguerre, Jorge Eduardo (139300) ->
 Porteous Lucero, Alfonso Nicolás (184112) ->
 Pucciano Castro, Luis Ignacio (185934) ->
 Rodriguez Trias, John Facundo (194592) ->
-Salinas Sosa, Wilson José (175045) ->
+Salinas Sosa, Wilson José (175045) -> wilsonss22
 Stella Escalante, Lucía Andrea (180910) ->
-Symonds Cooper, Carolyn Anne (200646) ->
+Symonds Cooper, Carolyn Anne (200646) -> carolynsymonds
 Vallarino Cibils, Ignacio (203645) ->
+Dodel Kohn, Daniela Sara (166689) -> danidodel
