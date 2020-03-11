@@ -16,6 +16,6 @@ Rius Pérez, Santiago José (230965)
 Rodriguez Alonzo, Mauro Nicolás (201966)
 Rodriguez Beriao, Federico (228941)
 Ruíz Puppo, Joaquín Esteban (206164)
-Sánchez Barre, Valentín Francisco (203458)
+Sánchez Barre, Valentín Francisco (203458) -> Usuario Github: VfSanchezBarre
 Valdomir Muslera, Gabriel (191621)
 Williamson Olaso, Guillermo (224813)
