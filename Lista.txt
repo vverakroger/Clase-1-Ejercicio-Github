@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
 ----------------------------------------
 
@@ -12,7 +12,7 @@ Lamas Vigorito, Luis Ignacio (87036)
 Levin Isguieff, Darío Selek (186791)
 Ottavis Etcheverry, Joaquin Guillermo (197841)
 Pintado López, Carlos Martín (236325)
-Rius Pérez, Santiago José (230965)
+Rius Pérez, Santiago José (230965) -> Usuario Github: santiago-rius
 Rodriguez Alonzo, Mauro Nicolás (201966)
 Rodriguez Beriao, Federico (228941)
 Ruíz Puppo, Joaquín Esteban (206164)
