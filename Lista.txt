@@ -16,7 +16,7 @@ Galeano Roca, Franco Bruno (230996)
 Gutman Mehr, Martín (186783)
 Hernandorena Lamas, Agustín Antonio (233361)
 Introini Riverón, Agustín (211064)
-Lamela Conde, Joaquín (233375)
+Lamela Conde, Joaquín (233375) -> Usuario Github: joaquinlamela
 Naistat-Hauser Kaminitz, Nicolás (202857)
 Najson Pinto, Felipe (232863)
 Nervi Pérez, Juan Andrés (223393)
