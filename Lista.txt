@@ -23,5 +23,5 @@ Nervi Pérez, Juan Andrés (223393)
 Patrón Perdomo, María Florencia (184799)
 Praderi Vera, Nicolas (214540)
 Rodríguez Viviano, Juan Martín (230371)
-Rügnitz Gomez, Santiago (215381)
+Rügnitz Gomez, Santiago (215381) -> Usuario Github: santiagorugnitz
 Topolansky Piñeyrua, Santiago (228360)
