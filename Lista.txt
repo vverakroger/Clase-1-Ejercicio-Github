@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: 
 ----------------------------------------
 
@@ -8,7 +8,7 @@ Balian Ratto, Juan Ignacio (211150)
 Bazzano Goldaracena, Marcos Ignacio (220591)
 Bermúdez Alman, Alejandro (222313)
 Casanova Ltaif, Juan (244108)
-Colina Candiota, Cristian Sebastián (201066)
+Colina Candiota, Cristian Sebastián (201066) SebastianColina4
 De Angelis Rodríguez, Tomás (209270)
 del Arca Prestes, Sebastian Alejandro (202096)
 Espinosa Fernández, Paula Denise (210635)
