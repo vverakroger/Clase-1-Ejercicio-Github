@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: 
 ----------------------------------------
 
@@ -18,7 +18,7 @@ Hernandorena Lamas, Agustín Antonio (233361)
 Introini Riverón, Agustín (211064)
 Lamela Conde, Joaquín (233375)
 Naistat-Hauser Kaminitz, Nicolás (202857)
-Najson Pinto, Felipe (232863)
+Najson Pinto, Felipe (232863) : felipe-najson
 Nervi Pérez, Juan Andrés (223393)
 Patrón Perdomo, María Florencia (184799)
 Praderi Vera, Nicolas (214540)
