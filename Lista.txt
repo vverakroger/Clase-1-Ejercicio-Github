@@ -1,4 +1,4 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: 
 ----------------------------------------
 
@@ -19,7 +19,7 @@ Introini Riverón, Agustín (211064)
 Lamela Conde, Joaquín (233375)
 Naistat-Hauser Kaminitz, Nicolás (202857)
 Najson Pinto, Felipe (232863)
-Nervi Pérez, Juan Andrés (223393)
+Nervi Pérez, Juan Andrés (223393) -> Usuario Github: juanNervi
 Patrón Perdomo, María Florencia (184799)
 Praderi Vera, Nicolas (214540)
 Rodríguez Viviano, Juan Martín (230371)
