@@ -5,11 +5,11 @@ Kleiman, Yani (xxxxxx) -> Usuario Github:
 Billares Lastra, Diego (232666)
 Franchi Hornos, Juan Luis (219687)
 Gibbs Alvarez, Nicolas Ignacio (227347) -> Usuario Github: nicogibbs
-González Martres, Nicolás (199044)
+González Martres, Nicolás (199044) -> Usuario Github:nicogonzmar3
 Hanham Martinez, Juan Lucas (217746)
 Iriart Córdoba, Mónica Beatriz (76637)
 Lamas Vigorito, Luis Ignacio (87036)
-Levin Isguieff, Darío Selek (186791)
+Levin Isguieff, Darío Selek (186791) -> Usuario Github: daro98 
 Ottavis Etcheverry, Joaquin Guillermo (197841)
 Pintado López, Carlos Martín (236325)
 Rius Pérez, Santiago José (230965)
@@ -19,3 +19,4 @@ Ruíz Puppo, Joaquín Esteban (206164)
 Sánchez Barre, Valentín Francisco (203458)
 Valdomir Muslera, Gabriel (191621)
 Williamson Olaso, Guillermo (224813)
+
