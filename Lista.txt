@@ -1,21 +1,21 @@
----------------Ejemplo------------------
+﻿---------------Ejemplo------------------
 Kleiman, Yani (xxxxxx) -> Usuario Github: yanikleiman
-----------------------------------------
 
-Billares Lastra, Diego (232666)
-Franchi Hornos, Juan Luis (219687)
-Gibbs Alvarez, Nicolas Ignacio (227347)
-González Martres, Nicolás (199044)
+Billares Lastra, Diego (232666) Usuario: 232666
+Franchi Hornos, Juan Luis (219687), juanfh06
+Gibbs Alvarez, Nicolas Ignacio (227347) -> Usuario Github: nicogibbs
+González Martres, Nicolás (199044) -> Usuario Github:nicogonzmar3
 Hanham Martinez, Juan Lucas (217746)
 Iriart Córdoba, Mónica Beatriz (76637)
 Lamas Vigorito, Luis Ignacio (87036)
-Levin Isguieff, Darío Selek (186791)
+Levin Isguieff, Darío Selek (186791) -> Usuario Github: daro98 
 Ottavis Etcheverry, Joaquin Guillermo (197841) - jottavis
 Pintado López, Carlos Martín (236325)
-Rius Pérez, Santiago José (230965)
+Rius Pérez, Santiago José (230965) -> Usuario Github: santiago-rius
 Rodriguez Alonzo, Mauro Nicolás (201966)
-Rodriguez Beriao, Federico (228941)
-Ruíz Puppo, Joaquín Esteban (206164)
-Sánchez Barre, Valentín Francisco (203458)
+Rodriguez Beriao, Federico (228941) feder98
+Ruíz Puppo, Joaquín Esteban (206164), Usuario de github : JoaquinRuiz7 
+Sánchez Barre, Valentín Francisco (203458) -> Usuario Github: VfSanchezBarre
 Valdomir Muslera, Gabriel (191621)
 Williamson Olaso, Guillermo (224813)
+
