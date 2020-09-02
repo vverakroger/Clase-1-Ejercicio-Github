@@ -7,6 +7,7 @@ Rivero, Sebastian(244267) -> Usuario Github: sebarivero10
 Hanham, Juan Lucas(217746) -> Usuario Github: lucashanham19
 Konopka, German(238880) -> Usuario Github: germankv
 Areosa, Guillermo(210030) -> Usuario Github: areosaguillermo
+Gibbs, Nicolas (227347) -> Usuario Github: nicogibbs
 Ferreiro, Santiago(231691) -> Usuario Github: santiferreiro19
 Robatto, Martin(240935) -> Usuario Github: Martin-Robatto
 
