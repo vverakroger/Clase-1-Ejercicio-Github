@@ -15,17 +15,17 @@ Dominitz Zyman, Daniel Jaime (62225) -> Usuario Github:
 Dotti Monteghirfo, Nicolas Miguel (191333) -> Usuario Github:
 Eiraldi Rosas, María Cecilia (178025) -> Usuario Github:
 Erlich Velázquez, Maximiliano (143216) -> Usuario Github:
-Fernández Doyenart, Washington Agustin (156887) -> Usuario Github:
-Fernández Noble, Erik Lionel (225511) -> Usuario Github:
+Fernández Doyenart, Washington Agustin (156887) -> Usuario Github: wafernandez
+Fernández Noble, Erik Lionel (225511) -> Usuario Github: Erik-FN
 Fiorito Mondino, Felipe (187437) -> Usuario Github:
 Fraga Yori, Andres Guillermo (151351) -> Usuario Github: andresgfraga
 García Antoine, Gervasio Javier (132987) -> Usuario Github:
-Iglesias Delgado, Alejandro (251043) -> Usuario Github:
+Iglesias Delgado, Alejandro (251043) -> Usuario Github: aleigx
 Larrañaga Abayian, Juan Ignacio (207789) -> Usuario Github:
 Martínez Sosa, Agustín (188471) -> Usuario Github:
-Poladura Pignata, Ricardo (238052) -> Usuario Github:
+Poladura Pignata, Ricardo (238052) -> Usuario Github: Ricardopp21
 Rauseo Trejo, Carlos Eduardo (246325) -> Usuario Github:
 Rivera Martínez, Fernando Omar (150991) -> Usuario Github:
-Rosello Camps, Francisco (223143) -> Usuario Github:
-Sapiurka Mayo, Mateo (211096) -> Usuario Github:
+Rosello Camps, Francisco (223143) -> Usuario Github: frosello
+Sapiurka Mayo, Mateo (211096) -> Usuario Github: mateosapi
 
