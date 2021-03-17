@@ -1,0 +1,42 @@
+--------------------------------------------------
+Welcome to DA1
+
+Poné tu usuario de GitHub en la línea de tu nombre
+
+Si dejas algo desalineado, hay tabla ಠ_ಠ
+--------------------------------------------------
+
+Aguilar Bartaburú, Francisco  (230143)          Usuario de GitHub: 
+Andrade Figueroa, Andrés Ezequiel (239313)      Usuario de GitHub: 
+Artía Frugoni, Tadeo Lauro (238254)             Usuario de GitHub: 
+Banchero Bermúdez, Pilar  (231587)              Usuario de GitHub: 
+Bolumburu Tejera, Santiago  (230676)            Usuario de GitHub: 
+Cestau Ruiz, María Clara (242044)               Usuario de GitHub: 
+Ciappesoni Marichal, Bruno Andres (248249)      Usuario de GitHub: 
+Cicheski Pytel, Aramis  (228430)                Usuario de GitHub: 
+Dilema Chulepín, Tomás  (209316)                Usuario de GitHub: 
+Facello Ferreira, Gonzalo Daniel (240371)       Usuario de GitHub: 
+Fernández Rodríguez, Jorge Bruno (221961)       Usuario de GitHub: 
+Fernández Storace, Juan Manuel (226155)         Usuario de GitHub: 
+Fontes Alvez, Matías  (248142)                  Usuario de GitHub: 
+Golubei Méndez, Andrei Joaquim (203479)         Usuario de GitHub: 
+Gugelmeier Eguiluz, Klaus  (247174)             Usuario de GitHub: 
+Haiache Ineu, Rodrigo  (197344)                 Usuario de GitHub: 
+Hernández Viera, Agustín Darío (202849)         Usuario de GitHub: 
+Irazoqui Bascou, Santiago  (234730)             Usuario de GitHub: 
+Marques Machado, Juan  (234275)                 Usuario de GitHub: 
+Marquez Lazcano, Joaquín  (239919)              Usuario de GitHub: 
+Matonti Ponzo, Renzo  (230829)                  Usuario de GitHub: 
+Olivera Miraballes, Juan Ignacio (223139)       Usuario de GitHub: 
+Picos Mourelle, Bruno  (214915)                 Usuario de GitHub: 
+Reyes Condesa, Hernán  (235861)                 Usuario de GitHub: 
+Rosa Delgado, Alán Nicolás (225609)             Usuario de GitHub: 
+Schoenig Zeballos, Martín  (245714)             Usuario de GitHub: 
+Sentena Tejera, Facundo  (251661)               Usuario de GitHub: 
+Sobral Boselli, Fernando  (218685)              Usuario de GitHub: 
+Sosa Ferreira, Martín  (228368)                 Usuario de GitHub: 
+Tenenbaum Lión, Diego  (228429)                 Usuario de GitHub: 
+Toledo Freire, Juan Sebastián (222371)          Usuario de GitHub: 
+Varela Sienra, Sebastián  (240248)              Usuario de GitHub: 
+Villagran Gómez, Ignacio Andrés (125684)        Usuario de GitHub: 
+
