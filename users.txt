@@ -1,4 +1,4 @@
---------------------------------------------------
+﻿--------------------------------------------------
 Welcome to DA1
 
 Poné tu usuario de GitHub en la línea de tu nombre
@@ -10,7 +10,7 @@ Aguilar Bartaburú, Francisco  (230143)          Usuario de GitHub: Francisco274
 Andrade Figueroa, Andrés Ezequiel (239313)      Usuario de GitHub: 
 Artía Frugoni, Tadeo Lauro (238254)             Usuario de GitHub: TadeoArtia
 Banchero Bermúdez, Pilar  (231587)              Usuario de GitHub: 
-Bolumburu Tejera, Santiago  (230676)            Usuario de GitHub: 
+Bolumburu Tejera, Santiago  (230676)            Usuario de GitHub: SantiagoBolumburu76
 Cestau Ruiz, María Clara (242044)               Usuario de GitHub: 
 Ciappesoni Marichal, Bruno Andres (248249)      Usuario de GitHub: 
 Cicheski Pytel, Aramis  (228430)                Usuario de GitHub:aramiscicheski
