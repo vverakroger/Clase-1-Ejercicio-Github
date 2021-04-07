@@ -1,4 +1,4 @@
---------------------------------------------------
+﻿--------------------------------------------------
 Welcome to DA1
 
 Poné tu usuario de GitHub en la línea de tu nombre
@@ -6,27 +6,29 @@ Poné tu usuario de GitHub en la línea de tu nombre
 Si dejas algo desalineado, hay tabla ಠ_ಠ
 --------------------------------------------------
 
-Aguilar Bartaburú, Francisco  (230143)          Usuario de GitHub: 
-Andrade Figueroa, Andrés Ezequiel (239313)      Usuario de GitHub: 
-Artía Frugoni, Tadeo Lauro (238254)             Usuario de GitHub: 
+
+Aguilar Bartaburú, Francisco  (230143)          Usuario de GitHub: Francisco274
+Andrade Figueroa, Andrés Ezequiel (239313)      Usuario de GitHub: andresandrade12345
+Artía Frugoni, Tadeo Lauro (238254)             Usuario de GitHub: TadeoArtia
 Banchero Bermúdez, Pilar  (231587)              Usuario de GitHub: 
-Bolumburu Tejera, Santiago  (230676)            Usuario de GitHub: 
+Bolumburu Tejera, Santiago  (230676)            Usuario de GitHub: SantiagoBolumburu76
 Cestau Ruiz, María Clara (242044)               Usuario de GitHub: claracestau
 Ciappesoni Marichal, Bruno Andres (248249)      Usuario de GitHub: 
 Cicheski Pytel, Aramis  (228430)                Usuario de GitHub:aramiscicheski
-Dilema Chulepín, Tomás  (209316)                Usuario de GitHub: 
+Dilema Chulepín, Tomás  (209316)                Usuario de GitHub: tomasdilema
 Facello Ferreira, Gonzalo Daniel (240371)       Usuario de GitHub: Gfacello
-Fernández Rodríguez, Jorge Bruno (221961)       Usuario de GitHub: 
+Fernández Rodríguez, Jorge Bruno (221961)       Usuario de GitHub: brunfernandez98
 Fernández Storace, Juan Manuel (226155)         Usuario de GitHub: 
-Fontes Alvez, Matías  (248142)                  Usuario de GitHub: 
-Golubei Méndez, Andrei Joaquim (203479)         Usuario de GitHub: 
-Gugelmeier Eguiluz, Klaus  (247174)             Usuario de GitHub: 
-Haiache Ineu, Rodrigo  (197344)                 Usuario de GitHub: 
+Fontes Alvez, Matías  (248142)                  Usuario de GitHub: matifontes
+Golubei Méndez, Andrei Joaquim (203479)         Usuario de GitHub: AndreiGoluei
+Gugelmeier Eguiluz, Klaus  (247174)             Usuario de GitHub: KlausGugelmeier
+Haiache Ineu, Rodrigo  (197344)                 Usuario de GitHub: Rodrigo1567
 Hernández Viera, Agustín Darío (202849)         Usuario de GitHub: AgustinH09
 Irazoqui Bascou, Santiago  (234730)             Usuario de GitHub: 
+Larrañaga Abayian, Juan Ignacio (207789)        Usuario de GitHub: juanlarra1
 Marques Machado, Juan  (234275)                 Usuario de GitHub: 
 Marquez Lazcano, Joaquín  (239919)              Usuario de GitHub: JoacoMarquez
-Matonti Ponzo, Renzo  (230829)                  Usuario de GitHub: 
+Matonti Ponzo, Renzo  (230829)                  Usuario de GitHub: RenzoM05
 Olivera Miraballes, Juan Ignacio (223139)       Usuario de GitHub: 
 Picos Mourelle, Bruno  (214915)                 Usuario de GitHub: 
 Reyes Condesa, Hernán  (235861)                 Usuario de GitHub: condesahreyes
