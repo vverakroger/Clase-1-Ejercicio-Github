@@ -1,33 +1,33 @@
 --------------------------------------
-Benítez González, Pablo Sebastián (179924) -> Usuario de GitHub: centerax
---------------------------------------
-Arsel  Cortazzo,  Nicolás                  -> Usuario de GitHub: 
---------------------------------------
-Couchet  Avila,  Federico  Michel          -> Usuario de GitHub: 
---------------------------------------
-Cozzano  Garcia,  Sofia  Sarahi            -> Usuario de GitHub: 
---------------------------------------
-Fernandez  Bobes,  José  Alberto           -> Usuario de GitHub: 
---------------------------------------
-Furtado  Coria,  Maria  Belen              -> Usuario de GitHub: 
---------------------------------------
-González  Cardozo,  Gustavo                -> Usuario de GitHub: 
---------------------------------------
-Gonzalez  Décima,  Mathias                 -> Usuario de GitHub: 
---------------------------------------
-Hernández  Fusco,  Nicolás  Antonio        -> Usuario de GitHub: 
---------------------------------------
-Izquierdo  Portillo,  Diego  Andrés        -> Usuario de GitHub: 
---------------------------------------
-Macedo  Dollanart,  Marcelo  Miguel        -> Usuario de GitHub: 
---------------------------------------
-Machiñena  Hernández,  Sebastián  Leandro  -> Usuario de GitHub: 
---------------------------------------
-Marino  Roland,  Carlos  Nicolás           -> Usuario de GitHub: 
---------------------------------------
-Nicolari  Ansin,  Gonzalo                  -> Usuario de GitHub: 
---------------------------------------
-Rios  Rocha,  Santiago  Augusto            -> Usuario de GitHub: 
---------------------------------------
-Rivera  Martínez,  Fernando  Omar          -> Usuario de GitHub: 
---------------------------------------
+Benítez González, Pablo Sebastián (179924)            -> Usuario de GitHub: centerax
+---------------------------------------------------------------------------
+Arsel  Cortazzo,  Nicolás (196239)                    -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Couchet  Avila,  Federico  Michel (185079)            -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Cozzano  Garcia,  Sofia  Sarahi (179878)              -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Fernandez  Bobes,  José  Alberto (208340)             -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Furtado  Coria,  Maria  Belen  (205610)               -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+González  Cardozo,  Gustavo (200509)                  -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Gonzalez  Décima,  Mathias (259282)                   -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Hernández  Fusco,  Nicolás  Antonio (229992)          -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Izquierdo  Portillo,  Diego  Andrés (206077)          -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Macedo  Dollanart,  Marcelo  Miguel (223114)          -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Machiñena  Hernández,  Sebastián  Leandro (165010)    -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Marino  Roland,  Carlos  Nicolás (231142)             -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Nicolari  Ansin,  Gonzalo (262731)                    -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Rios  Rocha,  Santiago  Augusto (185791)              -> Usuario de GitHub: 
+---------------------------------------------------------------------------
+Rivera  Martínez,  Fernando  Omar (150991)            -> Usuario de GitHub: 
+---------------------------------------------------------------------------
