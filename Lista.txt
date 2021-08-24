@@ -2,6 +2,7 @@ EJEMPLO:
 
 Balduccio, Bruno (157967) -> Usuario de GitHub: brubaldu
 Areosa, Guillermo (210030) -> Usuario de GitHub: areosaguillermo
+Strimber, Uriel (231097) -> Usuario de GitHub: uristrimber
 
 ----------------------------------------------------
 
