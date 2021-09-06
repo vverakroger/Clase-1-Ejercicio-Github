@@ -3,7 +3,12 @@ EJEMPLO:
 Balduccio, Bruno (157967) -> Usuario de GitHub: brubaldu
 Areosa, Guillermo (210030) -> Usuario de GitHub: areosaguillermo
 
+
 ----------------------------------------------------
 
 ALUMNOS:
+
 Thomasset, Franco (239611) -> Usuario de Github: francothom
+Vazquez, Ignacio (201595) -> Usuario de GitHub: nacho-vazquez98
+Strimber, Uriel (231097) -> Usuario de GitHub: uristrimber
+Premchand, Amar (247766) -> Usuario de GitHub: amarpremchand
