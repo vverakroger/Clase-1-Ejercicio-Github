@@ -10,3 +10,4 @@ ALUMNOS:
 Vazquez, Ignacio (201595) -> Usuario de GitHub: nacho-vazquez98
 Strimber, Uriel (231097) -> Usuario de GitHub: uristrimber
 
+Premchand, Amar (247766) -> Usuario de GitHub: amarpremchand
