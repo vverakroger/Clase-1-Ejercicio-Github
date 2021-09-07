@@ -2,31 +2,31 @@ Ejemplo:
 Arancet Iza, Facundo (210696)			Usuario:
 
 Alumnos:
-Alvarez Gamarra, Santiago  (185720)		Usuario:
+Alvarez Gamarra, Santiago  (185720)		Usuario: santialg15
 Azaretto Soler, Ignacio  (243242)		Usuario:
-Boné Viera, Timoteo  (254821)			Usuario:
+Boné Viera, Timoteo  (254821)			Usuario: timoteo0204
 Caceres Di Palma, Gonzalo  (192112)		Usuario:
-Cardoso Brugnini, Sol  (259700)			Usuario:
+Cardoso Brugnini, Sol  (259700)			Usuario: solcardoso
 Castiñeiras Misa, Mathías Gastón (186779)	Usuario:
-Cerdeña Vázquez, Juan Manuel (255448)		Usuario:
-Corrotti Mola, Andrés Santiago (228153)		Usuario:
-Denes Moreno, Guillermo  (260188)		Usuario:
+Cerdeña Vázquez, Juan Manuel (255448)		Usuario: juanmacerdena
+Corrotti Mola, Andrés Santiago (228153)		Usuario: andi2631
+Denes Moreno, Guillermo  (260188)		Usuario: GuillermoDenes
 Estévez Leandri, Ignacio Sebastián (261832)	Usuario: nacho2321
 Fattorini Paracampo, Renzo  (239770)		Usuario:
 Ferreira Lopez, Jessica Daniela (242716)	Usuario:
-Ferreiro Agudelo, Jimena  (260896)		Usuario:
+Ferreiro Agudelo, Jimena  (260896)		Usuario: jimena-ferreiro
 Gabarrín Moreno, Florencia Georgina (236256)	Usuario:
 Gahn Trimani, Gastón  (209800)			Usuario:
-Guerra Algorta, Rodrigo  (229008)		Usuario:		
+Guerra Algorta, Rodrigo  (229008)		Usuario: Rodrigog3		
 Hirigoyén Stanley, Teo Juan (258125)		Usuario:
-Martínez Sosa, Sofía Jazmín (222324)		Usuario:
+Martínez Sosa, Sofía Jazmín (222324)		Usuario: Sofia6074
 Odabachian Luraschi, Guillermo  (231181)	Usuario:
-Olariaga Brusales, Valentina Maria (232650)	Usuario:
+Olariaga Brusales, Valentina Maria (232650)	Usuario: valentina946
 Pacheco Sosa, Jorge Manuel (228559)		Usuario:
-Prieto Pérez, Santiago Manuel (257352)		Usuario:
+Prieto Pérez, Santiago Manuel (257352)		Usuario: santiprieto
 Rivero Busto, Maitena  (254386)			Usuario:
 Romero Gazzo, Felipe  (219588)			Usuario:		
-Tomé Auersperg, Joaquín  (251029)		Usuario:
+Tomé Auersperg, Joaquín  (251029)		Usuario: joacotome24
 Varela Sienra, Nicolas  (259432)		Usuario:
-Zimet Landechea, Juan Ignacio (219563)		Usuario:
-Zipitria Fernández Chaves, Diego  (232515)	Usuario:
+Zimet Landechea, Juan Ignacio (219563)		Usuario: nachoZimet
+Zipitria Fernández Chaves, Diego  (232515)	Usuario:DiegoZipitria
