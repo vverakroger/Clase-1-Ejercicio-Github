@@ -8,6 +8,7 @@ Areosa, Guillermo (210030) -> Usuario de GitHub: areosaguillermo
 
 ALUMNOS:
 
+Jodus, Evelyn (223987) -> Usuario de GitHub: evejodus
 Vazquez, Ignacio (201595) -> Usuario de GitHub: nacho-vazquez98
 Giaccio, Romina (206127) -> Usuario de GitHub: RominaGiaccio
 Pereyra Subiza, Pablo Martín -> Usuario de GitHub: PabloPereyraSubiza
@@ -22,3 +23,4 @@ Strimber, Uriel (231097) -> Usuario de GitHub: uristrimber
 Premchand, Amar (247766) -> Usuario de GitHub: amarpremchand
 Elisa Montaña (262763) -> Usuario de GitHub: elisamontana
 Cotelo, German (212350) -> Usuario de GitHub: GermanCotelo
+Schatz , Tali (180443) -> Usuario de GitHub: talischatz
