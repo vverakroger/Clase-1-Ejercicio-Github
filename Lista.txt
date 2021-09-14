@@ -7,6 +7,8 @@ Areosa, Guillermo (210030) -> Usuario de GitHub: areosaguillermo
 ----------------------------------------------------
 
 ALUMNOS:
+
+Federico, Czarnievicz (201250) -> Usuario de GitHub: Federicocz
 Martinez, Pablo Tomas (241532) -> Usuario de GitHub: tommympg00
 Fontenla, Gonzalo (172532) -> Usuario de GitHub: gfontenla
 Jodus, Evelyn (223987) -> Usuario de GitHub: evejodus
