@@ -2,7 +2,7 @@ Instrucciones: poner nombre y usuario de github en la lista
 
 Ejemplo:
 
-Facundo Arancet Iza: cantuccis
+Arancet Iza, Facundo (210696) - cantuccis
 
 Alumnos:
 
