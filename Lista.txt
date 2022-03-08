@@ -1,0 +1,63 @@
+Instrucciones: poner nombre y usuario de github en la lista
+
+Ejemplo:
+
+Facundo Arancet Iza: cantuccis
+
+Alumnos:
+
+Alamón Cuelho, Laura Gimena (243518)
+
+Alvira Martínez, Fiorella Giuliana (234232)
+
+Barrabino Scherschener, Manuel (252378)
+
+Bermúdez Fernández, Yamandú Vicente (214831)
+
+Biladóniga Griffett, Danilo Raúl (231749)
+
+Bzurovski Bajuk, Fernán (255323)
+
+Cano Segundo, Juan Ignacio (215542)
+
+Costa Grossy, Mateo Gabriel (232870)
+
+Cotelo Torres, Germán Enrique (212350)
+
+da Silva Ottonello, Matías (218472)
+
+De Lucca Márquez, Nicolás Ciro (202746)
+
+Fioritto Cedrés, Agustín Fernando (238927)
+
+Gestido Boggio, Martín Andrés (172760)
+
+Golubei Méndez, Andrei Joaquim (203479)
+
+Lamanna Villar, María Agustina (223040)
+
+Maubrigades Sanguinetti, Anuar Elias (167674)
+
+Molinari Gentilini, Melissa Giovanna (229896)
+
+Necasek Peluffo, Juan Pablo (258080)
+
+Oller Robaina, Germán Augusto (242312)
+
+Palacio Gómez, Santiago Tomás (257146)
+
+Piñeyro Rizzardo, Sofía Victoria (243498)
+
+Sanchez Lerete, Facundo (261710)
+
+Saravia Ostapchenco, Mateo (255917)
+
+Scheck Molins, Guillermo Pedro (221910)
+
+Susperreguy Cardozo, Romina Antonella (241128)
+
+Turchi Ferreira, Juan Manuel (252682)
+
+Varela Peguri, Florencia Isabel (254005)
+
+Waldeck Watenberg, Daniela (193254)
