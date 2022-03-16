@@ -27,7 +27,7 @@ Fortunato  Marzegan,  Christian  Andres ->
 					
 Halty  Papa,  Mateo -> 
 					
-Larenas  Gómez,  Nahuel  Ivan -> 
+Larenas  Gómez,  Nahuel  Ivan -> nahularenas
 					
 Maiese  Pedrozo,  Bruno  Pascual -> brunomaiese
 					
