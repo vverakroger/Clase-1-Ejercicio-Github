@@ -1,0 +1,7 @@
+Nombre completo - número de estudiante - usuario Github
+
+Profesores
+Bruno Balduccio - 157967 - brubaldu
+Juan Irabedra - 212375 - jirabedra
+
+Alumnos
