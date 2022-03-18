@@ -6,6 +6,8 @@ Anduano Novoa, Joaquin (176914) -> Usuario de Github: joaquin03
 -----------------------------------------------------------------
 ALUMNOS:
 
+Gomez Sepulveda, Alejandro (182128) -> Usuario de Github: aleggomezs
+
 Fraga, Andres (151351) -> Usuario de Github: andresgfraga
 
 Teske Vico, Santiago (188160) -> Usuario de Github: santiagoteske
