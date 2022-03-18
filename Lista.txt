@@ -8,6 +8,15 @@ ALUMNOS:
 
 Fraga, Andres (151351) -> Usuario de Github: andresgfraga
 
+Teske Vico, Santiago (188160) -> Usuario de Github: santiagoteske
+
+Pérez Soto, Alexis (202048) -> Usuario de Github: alexisperez7
+
+Caceres Di Palma, Gonzalo (192112) -> Usuario de Github: gonzalocaceres31
+
+Vargas, Martin (242639)  --> Usuario Github: vargasmartin1978
+
 Azaretto Soler, Ignacio (243242) -> Usuario de Github: IgnacioAzaSo
 
 Mamrut, Mauricio (266946) -> Usuario de Github: mauriciomamrut
+
