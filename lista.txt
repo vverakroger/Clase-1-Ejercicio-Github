@@ -5,19 +5,19 @@ EJEMPLO:
 Benítez Gonzalez, Pablo Sebastián -> benitezpablo
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-Aguade  Abelenda,  Juan  Agustín ->  agustinaguade
+Aguade  Abelenda,  Juan  Agustín ->  agustinaguade ==Invitado==
 					
-Alvira  Carvalho,  Dacio -> dacioAlvira
+Alvira  Carvalho,  Dacio -> dacioAlvira ==Invitado==
 					
 Barrios  Butler,  Federico -> 
 					
-Carbajal  Ottón,  Ignacio -> Ignacio-Carbajal
+Carbajal  Ottón,  Ignacio -> Ignacio-Carbajal ==Invitado==
 					
 Coito  Avila,  Rafael  Osvaldo -> 	
 					
-Dalto  Alanis,  Juan  Martin -> jdalto
+Dalto  Alanis,  Juan  Martin -> jdalto ==Invitado==
 					
-Egorov  Gómez,  Iván -> Ivan-Egorov
+Egorov  Gómez,  Iván -> Ivan-Egorov ==Invitado==
 					
 Felder  Polak,  Martín -> 			
 					
@@ -25,13 +25,13 @@ Fontenla  Mihura,  Gonzalo ->
 					
 Fortunato  Marzegan,  Christian  Andres -> 
 					
-Halty  Papa,  Mateo -> mateohalty
+Halty  Papa,  Mateo -> mateohalty ==Invitado==
 					
-Larenas  Gómez,  Nahuel  Ivan -> nahularenas
+Larenas  Gómez,  Nahuel  Ivan -> nahularenas ==Invitado==
 					
-Maiese  Pedrozo,  Bruno  Pascual -> brunomaiese
+Maiese  Pedrozo,  Bruno  Pascual -> brunomaiese ==Invitado==
 					
-Monfort  Sánchez,  Bruno  Dilan -> brunomonfort07
+Monfort  Sánchez,  Bruno  Dilan -> brunomonfort07 ==Invitado==
 					
 Naviliat  Innella,  Federico -> 
 					
@@ -39,7 +39,7 @@ Rivera  Martínez,  Fernando  Omar ->
 					
 Serrón  Lacassie,  Agustina -> 
 					
-Sommer  Llovet,  Joaquin  Adolfo -> joacosommer
+Sommer  Llovet,  Joaquin  Adolfo -> joacosommer ==Invitado==
 					
 Suárez  Quinteros,  Lucas  Hernán -> 
 					
@@ -51,4 +51,4 @@ Vargas  Núñez,  Jerónimo -> jerovar1
 
 Vera  Kroger,  Valeria -> 
 					
-Young  Silveira,  Felipe  Patricio -> youngfelipe1
+Young  Silveira,  Felipe  Patricio -> youngfelipe1 ==Ya en Org.==
