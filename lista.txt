@@ -13,7 +13,7 @@ Barrios  Butler,  Federico ->
 					
 Carbajal  Ottón,  Ignacio -> Ignacio-Carbajal ==Invitado==
 					
-Coito  Avila,  Rafael  Osvaldo -> rcoito	
+Coito  Avila,  Rafael  Osvaldo -> rcoito ==Invitado==
 					
 Dalto  Alanis,  Juan  Martin -> jdalto ==Invitado==
 					
@@ -37,17 +37,17 @@ Naviliat  Innella,  Federico ->
 					
 Rivera  Martínez,  Fernando  Omar -> 
 					
-Serrón  Lacassie,  Agustina -> agusserron
+Serrón  Lacassie,  Agustina -> agusserron ==Invitada==
 					
 Sommer  Llovet,  Joaquin  Adolfo -> joacosommer ==Invitado==
 					
-Suárez  Quinteros,  Lucas  Hernán -> LucasSuarez1
+Suárez  Quinteros,  Lucas  Hernán -> LucasSuarez1 ==Invitado==
 					
 Tognazzolo  Rodriguez,  Martin  Nicolás -> 
 					
 Toledo  Freire,  Juan  Sebastián -> 
 					
-Vargas  Núñez,  Jerónimo -> jerovar1
+Vargas  Núñez,  Jerónimo -> jerovar1 ==Ya en Org.==
 
 Vera  Kroger,  Valeria -> 
 					
