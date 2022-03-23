@@ -13,7 +13,7 @@ Barrios  Butler,  Federico ->
 					
 Carbajal  Ottón,  Ignacio -> Ignacio-Carbajal ==Invitado==
 					
-Coito  Avila,  Rafael  Osvaldo -> 	
+Coito  Avila,  Rafael  Osvaldo -> rcoito	
 					
 Dalto  Alanis,  Juan  Martin -> jdalto ==Invitado==
 					
