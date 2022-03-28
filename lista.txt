@@ -1,4 +1,4 @@
-EJEMPLO:
+﻿EJEMPLO:
 
 Elizabelar Nicolás (210056) -> Usuario de GitHub: nelizabelar
 
@@ -10,3 +10,4 @@ Natalia Elvas (230982) -> usuario de gitHub: natielvas
 Alejandro Duran (176652) -> Usuario de Git: AlejandroDuranRoveta
 Juan Ignacio Zimet (219563) -> Usuario de Git: nachoZimet
 Diego Zipitria (232515) -> Usuario de Git: diegozipitria
+Macarena López (235976) -> Usuario de Git: McTinyMonster
