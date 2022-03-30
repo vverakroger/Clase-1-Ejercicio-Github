@@ -9,7 +9,7 @@ Aguade  Abelenda,  Juan  Agustín ->  agustinaguade ==Invitado==
 					
 Alvira  Carvalho,  Dacio -> dacioAlvira ==Invitado==
 					
-Barrios  Butler,  Federico -> federicobarrios98
+Barrios  Butler,  Federico -> federicobarrios98 ==Invitado==
 					
 Carbajal  Ottón,  Ignacio -> Ignacio-Carbajal ==Invitado==
 					
