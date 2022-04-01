@@ -49,6 +49,6 @@ Toledo  Freire,  Juan  Sebastián ->
 					
 Vargas  Núñez,  Jerónimo -> jerovar1 ==Ya en Org.==
 
-Vera  Kroger,  Valeria -> 
+Vera  Kroger,  Valeria -> vverakroger
 					
 Young  Silveira,  Felipe  Patricio -> youngfelipe1 ==Ya en Org.==
